@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-bath
 Version:	63401
-Release:	1
+Release:	2
 Summary:	Harvard referencing style as recommended by the University of Bath Library
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bath
