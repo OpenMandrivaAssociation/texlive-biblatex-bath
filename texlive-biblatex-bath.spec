@@ -3,7 +3,7 @@ Version:	63401
 Release:	2
 Summary:	Harvard referencing style as recommended by the University of Bath Library
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-bath
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-bath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-bath.doc.r%{version}.tar.xz
